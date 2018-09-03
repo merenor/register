@@ -1,0 +1,7 @@
+__pycache__/
+alt/
+*.db
+*.docx
+*.json
+*.log
+*.txt
