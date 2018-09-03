@@ -33,7 +33,7 @@ It is possible to create shortcuts for ids. For example, ".beet" for "id #123". 
 # Name Operations
 
 - add Beethoven, Ludwig van - adds "Beethoven, Ludwig van on the current page" (creates name if new)
-- # 123 - adds name with the id 123
+- \# 123 - adds name with the id 123
 - .beet - adds name of a shortcut (see above)
 - delname Beethoven, Ludwig van - deletes the name
 - find hoven - finds all names that include "hoven"
